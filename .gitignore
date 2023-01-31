@@ -1,3 +1,2 @@
 # Ignorar database arquivos
-database/database.js
-database.js
+database/database
